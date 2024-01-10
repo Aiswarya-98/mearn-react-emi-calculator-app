@@ -1,0 +1,11 @@
+.forms{
+  width: 700px;
+  padding: 30px;
+  margin-left: 400px;
+}
+
+.result{
+  color: green;
+  font-weight: bold;
+  margin-left: 600px;
+}
